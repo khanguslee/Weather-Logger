@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/khanguslee/Weather-Logger#readme",
   "dependencies": {
-    "johnny-five": "^0.13.0"
+    "serialport": "^6.0.4"
   }
 }
